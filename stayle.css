@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  background-color: black;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  margin-top: -5px;
+  padding: 0;
+}
+
+h1 {
+  color: aliceblue;
+  margin: 0;
+}
+
+footer {
+  margin-top: -12px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+p {
+  width: 75%;
+  font-size: 10px;
+  color: aliceblue;
+}
+h2 {
+  color: aliceblue;
+  width: 75%;
+}
+
+h3 {
+  color: aliceblue;
+  width: 75%;
+}

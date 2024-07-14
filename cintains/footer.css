@@ -1,0 +1,40 @@
+.ul-footer {
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+}
+.divfooter {
+  border-top: solid thin white;
+  border-bottom: solid thin white;
+  width: 75%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 40px auto;
+  position: relative;
+}
+.texts-footer {
+  width: 30%;
+  height: 100%;
+}
+.btn-footer {
+  color: white;
+  width: 2%;
+  height: 10%;
+  position: absolute;
+  right: 19%;
+  bottom: 20%;
+  border: none;
+}
+.btn-footer:hover {
+  color: chartreuse;
+}
+input {
+  border: solid thin white;
+  height: 30px;
+  position: relative;
+  background: none;
+}
+::placeholder {
+  color: rgb(255, 255, 255);
+}
